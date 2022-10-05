@@ -1,0 +1,10 @@
+_target_: src.data.MCCombineDataModule.MCCombineDataModule
+
+data_dir: ${data_dir}/train30_test10
+k_fold: null
+use_k_fold: True
+has_test: False
+split_by_surgeon: False
+
+num_workers: 8
+batch_size: 8

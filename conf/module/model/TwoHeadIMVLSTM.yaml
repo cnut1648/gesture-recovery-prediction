@@ -1,0 +1,9 @@
+_target_: src.module.model.TwoHeadIMVLSTM.TwoHeadIMVLSTM
+
+arch: TwoHeadIMVLSTM
+num_emb: ${data.num_distinct_gestures}
+emb_dim: 128
+hidden_dim: 1024
+n_units: 128
+linear_dim: 512
+# use_same_lstm: True

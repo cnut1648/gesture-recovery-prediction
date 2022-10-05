@@ -1,0 +1,1 @@
+{"learning_rate": 4.8308559732282665e-05, "input_embed_dim": 16, "embedding_dropout": 0.3710290344034934, "share_embedding": false, "num_attn_blocks": 5, "attn_dropout": 0.17324873820249495}

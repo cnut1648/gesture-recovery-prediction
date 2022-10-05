@@ -1,0 +1,12 @@
+_target_: src.module.BaselineModule.BaselineModule
+defaults:
+  - model: TwoHeadLSTM
+  - optim: SGD
+  - scheduler: ReduceLROnPlateau
+
+# control label smoothing
+label_smoothness: 0.01
+
+# R-Dropout
+# https://arxiv.org/pdf/2106.14448.pdf
+r_drop_weight: 0

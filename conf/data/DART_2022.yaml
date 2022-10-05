@@ -1,0 +1,13 @@
+_target_: src.data.MCDARTModule.MCDARTModule
+
+data_dir: ${data_dir}/train30_test10
+# ave_th_2_sides, ave_tr_2_sides, ave_e_2_sides
+column_name: ???
+monte_carlo: 50
+has_test: False
+use_k_fold: True
+k_fold: 0
+target_as_clf: False
+
+num_workers: 8
+batch_size: 8

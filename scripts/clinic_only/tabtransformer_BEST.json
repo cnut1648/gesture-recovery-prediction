@@ -1,0 +1,1 @@
+{"input_embed_dim": 128, "embedding_dropout": 0.10938084106593393, "learning_rate": 1.0086792729322067e-05, "share_embedding": false, "out_ff_layers": "128-64-32", "use_batch_norm": false}

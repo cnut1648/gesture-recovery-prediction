@@ -1,0 +1,14 @@
+wandb:
+  _target_: pytorch_lightning.loggers.wandb.WandbLogger
+  project: seq-2022
+  # name=f"{cfg.model.arch}+{cfg.data.surgery_type}::{cfg.trainer.train_strategy}"
+  name: null
+  save_dir: "."
+  offline: False # set True to store all logs only locally
+  id: null # pass correct id to resume experiment!
+  log_model: False
+  save_code: True
+  # prefix: ""
+  # job_type: "scratch"
+  tags:
+    - ${module.model.arch}

@@ -1,0 +1,34 @@
+defaults:
+  - callback: wandb
+  - data: seq
+
+  - hydra: defaults
+
+  - logger: several
+
+  - module: baseline
+
+  - trainer: defaults
+
+  # enable color logging
+  - override hydra/hydra_logging: colorlog
+  - override hydra/job_logging: colorlog
+
+# path to original working directory
+work_dir: ${hydra:runtime.cwd}
+
+# path to folder with data
+data_dir: ${work_dir}/processed
+
+# runtime append logs/save/<wandbid>
+# save hydra - hydra config
+# ckpt
+output_dir: ${work_dir}/logs/save
+
+# if debug, no wandb online + print message
+debug: False
+
+# global seed
+seed: 0
+
+test_from_run: null

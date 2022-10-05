@@ -1,0 +1,450 @@
+logs/save/14339/ckpt/epoch00-AUROC0.50-acc0.70.ckpt
+best acc is 0.54
+logs/save/14339/ckpt/epoch02-AUROC0.50-acc0.70.ckpt
+best acc is 0.54
+logs/save/14339/ckpt/epoch01-AUROC0.79-acc0.70.ckpt
+best acc is 0.56
+logs/save/14340/ckpt/epoch03-AUROC0.56-acc0.50.ckpt
+logs/save/14340/ckpt/epoch01-AUROC0.70-acc0.50.ckpt
+best acc is 0.54
+logs/save/14340/ckpt/epoch04-AUROC0.56-acc0.50.ckpt
+logs/save/14341/ckpt/epoch02-AUROC0.44-acc0.50.ckpt
+logs/save/14341/ckpt/epoch03-AUROC0.44-acc0.50.ckpt
+logs/save/14341/ckpt/epoch01-AUROC0.82-acc0.50.ckpt
+best acc is 0.54
+logs/save/14342/ckpt/epoch03-AUROC0.56-acc0.50.ckpt
+logs/save/14342/ckpt/epoch01-AUROC0.58-acc0.50.ckpt
+best acc is 0.54
+logs/save/14342/ckpt/epoch00-AUROC0.60-acc0.50.ckpt
+best acc is 0.54
+logs/save/14343/ckpt/epoch03-AUROC0.75-acc0.60.ckpt
+logs/save/14343/ckpt/epoch05-AUROC0.75-acc0.60.ckpt
+logs/save/14343/ckpt/epoch04-AUROC0.75-acc0.60.ckpt
+logs/save/14344/ckpt/epoch00-AUROC0.50-acc0.50.ckpt
+best acc is 0.56
+logs/save/14344/ckpt/epoch02-AUROC0.40-acc0.50.ckpt
+best acc is 0.54
+logs/save/14344/ckpt/epoch01-AUROC0.46-acc0.50.ckpt
+best acc is 0.54
+logs/save/14345/ckpt/epoch00-AUROC0.50-acc0.50.ckpt
+best acc is 0.54
+logs/save/14345/ckpt/epoch02-AUROC0.28-acc0.50.ckpt
+logs/save/14345/ckpt/epoch01-AUROC0.92-acc0.50.ckpt
+best acc is 0.6
+logs/save/14346/ckpt/epoch00-AUROC0.50-acc0.60.ckpt
+best acc is 0.56
+logs/save/14346/ckpt/epoch01-AUROC0.58-acc0.40.ckpt
+best acc is 0.54
+logs/save/14346/ckpt/epoch02-AUROC0.50-acc0.60.ckpt
+logs/save/14347/ckpt/epoch01-AUROC0.66-acc0.50.ckpt
+best acc is 0.58
+logs/save/14347/ckpt/epoch00-AUROC0.50-acc0.50.ckpt
+best acc is 0.54
+logs/save/14347/ckpt/epoch02-AUROC0.48-acc0.50.ckpt
+logs/save/14348/ckpt/epoch03-AUROC0.57-acc0.70.ckpt
+logs/save/14348/ckpt/epoch05-AUROC0.57-acc0.70.ckpt
+logs/save/14348/ckpt/epoch04-AUROC0.57-acc0.70.ckpt
+logs/save/14349/ckpt/epoch02-AUROC0.46-acc0.40.ckpt
+best acc is 0.54
+logs/save/14349/ckpt/epoch01-AUROC0.67-acc0.60.ckpt
+best acc is 0.54
+logs/save/14349/ckpt/epoch03-AUROC0.50-acc0.60.ckpt
+best acc is 0.54
+logs/save/14350/ckpt/epoch00-AUROC0.50-acc0.60.ckpt
+best acc is 0.54
+logs/save/14350/ckpt/epoch01-AUROC0.58-acc0.60.ckpt
+best acc is 0.6
+logs/save/14350/ckpt/epoch02-AUROC0.38-acc0.40.ckpt
+logs/save/14351/ckpt/epoch04-AUROC0.52-acc0.50.ckpt
+logs/save/14351/ckpt/epoch03-AUROC0.52-acc0.50.ckpt
+logs/save/14351/ckpt/epoch05-AUROC0.52-acc0.50.ckpt
+logs/save/14352/ckpt/epoch04-AUROC0.56-acc0.80.ckpt
+logs/save/14352/ckpt/epoch02-AUROC0.56-acc0.80.ckpt
+logs/save/14352/ckpt/epoch03-AUROC0.56-acc0.80.ckpt
+logs/save/14353/ckpt/epoch00-AUROC0.50-acc0.60.ckpt
+best acc is 0.6
+logs/save/14353/ckpt/epoch01-AUROC0.58-acc0.60.ckpt
+best acc is 0.54
+logs/save/14353/ckpt/epoch02-AUROC0.50-acc0.40.ckpt
+best acc is 0.54
+logs/save/14354/ckpt/epoch00-AUROC0.50-acc0.60.ckpt
+best acc is 0.54
+logs/save/14354/ckpt/epoch02-AUROC0.33-acc0.40.ckpt
+logs/save/14354/ckpt/epoch03-AUROC0.33-acc0.40.ckpt
+logs/save/14355/ckpt/epoch00-AUROC0.42-acc0.60.ckpt
+best acc is 0.54
+logs/save/14355/ckpt/epoch01-AUROC0.83-acc0.40.ckpt
+best acc is 0.56
+logs/save/14355/ckpt/epoch02-AUROC0.29-acc0.40.ckpt
+logs/save/14356/ckpt/epoch03-AUROC0.56-acc0.50.ckpt
+logs/save/14356/ckpt/epoch05-AUROC0.56-acc0.50.ckpt
+logs/save/14356/ckpt/epoch04-AUROC0.56-acc0.50.ckpt
+logs/save/14357/ckpt/epoch01-AUROC0.50-acc0.50.ckpt
+best acc is 0.54
+logs/save/14357/ckpt/epoch02-AUROC0.50-acc0.50.ckpt
+best acc is 0.54
+logs/save/14357/ckpt/epoch00-AUROC0.56-acc0.50.ckpt
+best acc is 0.54
+logs/save/14358/ckpt/epoch03-AUROC0.83-acc0.40.ckpt
+logs/save/14358/ckpt/epoch05-AUROC0.83-acc0.40.ckpt
+logs/save/14358/ckpt/epoch04-AUROC0.83-acc0.40.ckpt
+logs/save/14359/ckpt/epoch02-AUROC0.50-acc0.20.ckpt
+best acc is 0.54
+logs/save/14359/ckpt/epoch01-AUROC0.44-acc0.80.ckpt
+best acc is 0.54
+logs/save/14359/ckpt/epoch00-AUROC0.94-acc0.80.ckpt
+best acc is 0.62
+logs/save/14360/ckpt/epoch02-AUROC0.35-acc0.60.ckpt
+best acc is 0.56
+logs/save/14360/ckpt/epoch01-AUROC0.44-acc0.40.ckpt
+best acc is 0.54
+logs/save/14360/ckpt/epoch00-AUROC0.69-acc0.60.ckpt
+best acc is 0.58
+logs/save/14361/ckpt/epoch03-AUROC0.67-acc0.60.ckpt
+logs/save/14361/ckpt/epoch04-AUROC0.67-acc0.60.ckpt
+logs/save/14361/ckpt/epoch05-AUROC0.67-acc0.60.ckpt
+logs/save/14362/ckpt/epoch02-AUROC0.50-acc0.50.ckpt
+best acc is 0.54
+logs/save/14362/ckpt/epoch04-AUROC0.40-acc0.50.ckpt
+logs/save/14362/ckpt/epoch03-AUROC0.40-acc0.50.ckpt
+logs/save/14363/ckpt/epoch00-AUROC0.76-acc0.50.ckpt
+best acc is 0.54
+logs/save/14363/ckpt/epoch02-AUROC0.60-acc0.50.ckpt
+logs/save/14363/ckpt/epoch03-AUROC0.60-acc0.50.ckpt
+logs/save/14364/ckpt/epoch03-AUROC0.46-acc0.60.ckpt
+logs/save/14364/ckpt/epoch02-AUROC0.46-acc0.60.ckpt
+logs/save/14364/ckpt/epoch04-AUROC0.46-acc0.60.ckpt
+logs/save/14365/ckpt/epoch01-AUROC0.65-acc0.40.ckpt
+best acc is 0.54
+logs/save/14365/ckpt/epoch02-AUROC0.50-acc0.60.ckpt
+best acc is 0.54
+logs/save/14365/ckpt/epoch00-AUROC0.50-acc0.40.ckpt
+best acc is 0.54
+logs/save/14366/ckpt/epoch00-AUROC0.80-acc0.50.ckpt
+best acc is 0.54
+logs/save/14366/ckpt/epoch01-AUROC0.50-acc0.50.ckpt
+best acc is 0.54
+logs/save/14366/ckpt/epoch02-AUROC0.16-acc0.50.ckpt
+logs/save/14367/ckpt/epoch00-AUROC0.57-acc0.70.ckpt
+best acc is 0.68
+logs/save/14367/ckpt/epoch02-AUROC0.43-acc0.70.ckpt
+logs/save/14367/ckpt/epoch01-AUROC0.57-acc0.70.ckpt
+best acc is 0.54
+logs/save/14368/ckpt/epoch03-AUROC0.83-acc0.60.ckpt
+logs/save/14368/ckpt/epoch04-AUROC0.83-acc0.60.ckpt
+logs/save/14368/ckpt/epoch02-AUROC0.83-acc0.60.ckpt
+logs/save/14369/ckpt/epoch02-AUROC0.50-acc0.60.ckpt
+best acc is 0.54
+logs/save/14369/ckpt/epoch00-AUROC0.50-acc0.40.ckpt
+best acc is 0.54
+logs/save/14369/ckpt/epoch01-AUROC0.54-acc0.60.ckpt
+best acc is 0.54
+logs/save/14370/ckpt/epoch03-AUROC0.50-acc0.60.ckpt
+logs/save/14370/ckpt/epoch02-AUROC0.50-acc0.60.ckpt
+logs/save/14370/ckpt/epoch04-AUROC0.50-acc0.60.ckpt
+logs/save/14371/ckpt/epoch00-AUROC0.50-acc0.50.ckpt
+best acc is 0.54
+logs/save/14371/ckpt/epoch02-AUROC0.40-acc0.50.ckpt
+logs/save/14371/ckpt/epoch03-AUROC0.40-acc0.50.ckpt
+logs/save/14372/ckpt/epoch02-AUROC0.50-acc0.80.ckpt
+best acc is 0.54
+logs/save/14372/ckpt/epoch03-AUROC0.44-acc0.80.ckpt
+logs/save/14372/ckpt/epoch01-AUROC0.69-acc0.20.ckpt
+best acc is 0.54
+logs/save/14373/ckpt/epoch03-AUROC0.60-acc0.50.ckpt
+logs/save/14373/ckpt/epoch04-AUROC0.60-acc0.50.ckpt
+logs/save/14373/ckpt/epoch02-AUROC0.72-acc0.50.ckpt
+best acc is 0.62
+logs/save/14374/ckpt/epoch00-AUROC0.55-acc0.70.ckpt
+best acc is 0.56
+logs/save/14374/ckpt/epoch01-AUROC0.40-acc0.30.ckpt
+best acc is 0.54
+logs/save/14374/ckpt/epoch02-AUROC0.50-acc0.30.ckpt
+best acc is 0.54
+logs/save/14375/ckpt/epoch00-AUROC0.72-acc0.50.ckpt
+best acc is 0.7
+logs/save/14375/ckpt/epoch01-AUROC0.58-acc0.50.ckpt
+best acc is 0.64
+logs/save/14375/ckpt/epoch02-AUROC0.36-acc0.50.ckpt
+logs/save/14376/ckpt/epoch01-AUROC0.50-acc0.50.ckpt
+best acc is 0.54
+logs/save/14376/ckpt/epoch02-AUROC0.50-acc0.50.ckpt
+best acc is 0.54
+logs/save/14376/ckpt/epoch03-AUROC0.48-acc0.50.ckpt
+logs/save/14377/ckpt/epoch02-AUROC0.62-acc0.70.ckpt
+logs/save/14377/ckpt/epoch04-AUROC0.62-acc0.70.ckpt
+logs/save/14377/ckpt/epoch03-AUROC0.62-acc0.70.ckpt
+logs/save/14378/ckpt/epoch04-AUROC0.67-acc0.30.ckpt
+logs/save/14378/ckpt/epoch00-AUROC0.71-acc0.30.ckpt
+best acc is 0.6
+logs/save/14378/ckpt/epoch03-AUROC0.67-acc0.30.ckpt
+logs/save/14379/ckpt/epoch02-AUROC0.52-acc0.50.ckpt
+logs/save/14379/ckpt/epoch01-AUROC0.56-acc0.50.ckpt
+best acc is 0.6
+logs/save/14379/ckpt/epoch00-AUROC0.58-acc0.50.ckpt
+best acc is 0.54
+logs/save/14380/ckpt/epoch01-AUROC0.44-acc0.40.ckpt
+best acc is 0.56
+logs/save/14380/ckpt/epoch00-AUROC0.54-acc0.40.ckpt
+best acc is 0.54
+logs/save/14380/ckpt/epoch02-AUROC0.75-acc0.60.ckpt
+logs/save/14381/ckpt/epoch03-AUROC0.71-acc0.60.ckpt
+logs/save/14381/ckpt/epoch04-AUROC0.71-acc0.60.ckpt
+logs/save/14381/ckpt/epoch05-AUROC0.71-acc0.60.ckpt
+logs/save/14382/ckpt/epoch01-AUROC0.50-acc0.50.ckpt
+best acc is 0.7
+logs/save/14382/ckpt/epoch04-AUROC0.48-acc0.50.ckpt
+logs/save/14382/ckpt/epoch03-AUROC0.48-acc0.50.ckpt
+logs/save/14383/ckpt/epoch04-AUROC0.71-acc0.40.ckpt
+logs/save/14383/ckpt/epoch03-AUROC0.71-acc0.40.ckpt
+logs/save/14383/ckpt/epoch02-AUROC0.71-acc0.40.ckpt
+logs/save/14384/ckpt/epoch02-AUROC0.68-acc0.50.ckpt
+logs/save/14384/ckpt/epoch03-AUROC0.68-acc0.50.ckpt
+logs/save/14384/ckpt/epoch04-AUROC0.68-acc0.50.ckpt
+logs/save/14385/ckpt/epoch04-AUROC0.67-acc0.40.ckpt
+logs/save/14385/ckpt/epoch03-AUROC0.67-acc0.40.ckpt
+logs/save/14385/ckpt/epoch05-AUROC0.67-acc0.40.ckpt
+logs/save/14386/ckpt/epoch02-AUROC0.79-acc0.60.ckpt
+logs/save/14386/ckpt/epoch04-AUROC0.79-acc0.60.ckpt
+logs/save/14386/ckpt/epoch03-AUROC0.79-acc0.60.ckpt
+logs/save/14387/ckpt/epoch01-AUROC0.67-acc0.60.ckpt
+best acc is 0.54
+logs/save/14387/ckpt/epoch00-AUROC0.75-acc0.40.ckpt
+best acc is 0.54
+logs/save/14387/ckpt/epoch02-AUROC0.25-acc0.60.ckpt
+logs/save/14388/ckpt/epoch02-AUROC0.55-acc0.30.ckpt
+best acc is 0.6
+logs/save/14388/ckpt/epoch04-AUROC0.48-acc0.30.ckpt
+logs/save/14388/ckpt/epoch03-AUROC0.48-acc0.30.ckpt
+logs/save/14389/ckpt/epoch01-AUROC0.71-acc0.30.ckpt
+best acc is 0.64
+logs/save/14389/ckpt/epoch02-AUROC0.86-acc0.30.ckpt
+best acc is 0.6
+logs/save/14389/ckpt/epoch00-AUROC0.43-acc0.30.ckpt
+best acc is 0.7
+logs/save/14390/ckpt/epoch01-AUROC0.66-acc0.50.ckpt
+best acc is 0.64
+logs/save/14390/ckpt/epoch00-AUROC0.48-acc0.50.ckpt
+best acc is 0.54
+logs/save/14390/ckpt/epoch02-AUROC0.32-acc0.50.ckpt
+logs/save/14391/ckpt/epoch02-AUROC0.60-acc0.50.ckpt
+logs/save/14391/ckpt/epoch03-AUROC0.60-acc0.50.ckpt
+logs/save/14391/ckpt/epoch04-AUROC0.60-acc0.50.ckpt
+logs/save/14392/ckpt/epoch04-AUROC0.54-acc0.60.ckpt
+logs/save/14392/ckpt/epoch01-AUROC0.75-acc0.60.ckpt
+best acc is 0.6
+logs/save/14392/ckpt/epoch03-AUROC0.54-acc0.60.ckpt
+logs/save/14393/ckpt/epoch00-AUROC0.55-acc0.70.ckpt
+best acc is 0.54
+logs/save/14393/ckpt/epoch02-AUROC0.57-acc0.30.ckpt
+best acc is 0.54
+logs/save/14393/ckpt/epoch03-AUROC0.48-acc0.70.ckpt
+logs/save/14394/ckpt/epoch02-AUROC0.50-acc0.70.ckpt
+best acc is 0.54
+logs/save/14394/ckpt/epoch01-AUROC0.50-acc0.30.ckpt
+best acc is 0.54
+logs/save/14394/ckpt/epoch00-AUROC0.38-acc0.30.ckpt
+best acc is 0.54
+logs/save/14395/ckpt/epoch02-AUROC0.76-acc0.70.ckpt
+logs/save/14395/ckpt/epoch03-AUROC0.76-acc0.70.ckpt
+logs/save/14395/ckpt/epoch01-AUROC0.86-acc0.30.ckpt
+best acc is 0.54
+logs/save/14396/ckpt/epoch03-AUROC0.36-acc0.50.ckpt
+logs/save/14396/ckpt/epoch02-AUROC0.36-acc0.50.ckpt
+logs/save/14396/ckpt/epoch00-AUROC0.60-acc0.50.ckpt
+best acc is 0.6
+logs/save/14397/ckpt/epoch01-AUROC0.67-acc0.70.ckpt
+best acc is 0.68
+logs/save/14397/ckpt/epoch00-AUROC0.67-acc0.30.ckpt
+best acc is 0.58
+logs/save/14397/ckpt/epoch02-AUROC0.50-acc0.70.ckpt
+best acc is 0.54
+logs/save/14398/ckpt/epoch00-AUROC0.64-acc0.30.ckpt
+best acc is 0.54
+logs/save/14398/ckpt/epoch01-AUROC0.67-acc0.70.ckpt
+best acc is 0.54
+logs/save/14398/ckpt/epoch02-AUROC0.29-acc0.70.ckpt
+logs/save/14399/ckpt/epoch01-AUROC0.75-acc0.20.ckpt
+best acc is 0.54
+logs/save/14399/ckpt/epoch02-AUROC0.31-acc0.80.ckpt
+logs/save/14399/ckpt/epoch00-AUROC0.38-acc0.20.ckpt
+best acc is 0.54
+logs/save/14400/ckpt/epoch00-AUROC0.50-acc0.70.ckpt
+best acc is 0.58
+logs/save/14400/ckpt/epoch02-AUROC0.50-acc0.70.ckpt
+best acc is 0.54
+logs/save/14400/ckpt/epoch03-AUROC0.50-acc0.70.ckpt
+best acc is 0.54
+logs/save/14401/ckpt/epoch03-AUROC0.38-acc0.60.ckpt
+logs/save/14401/ckpt/epoch00-AUROC0.58-acc0.40.ckpt
+best acc is 0.62
+logs/save/14401/ckpt/epoch02-AUROC0.58-acc0.40.ckpt
+best acc is 0.56
+logs/save/14402/ckpt/epoch03-AUROC0.58-acc0.40.ckpt
+logs/save/14402/ckpt/epoch04-AUROC0.58-acc0.40.ckpt
+logs/save/14402/ckpt/epoch02-AUROC0.58-acc0.40.ckpt
+logs/save/14403/ckpt/epoch02-AUROC0.50-acc0.60.ckpt
+logs/save/14403/ckpt/epoch00-AUROC0.58-acc0.40.ckpt
+best acc is 0.54
+logs/save/14403/ckpt/epoch01-AUROC0.50-acc0.60.ckpt
+best acc is 0.54
+logs/save/14404/ckpt/epoch02-AUROC0.21-acc0.40.ckpt
+logs/save/14404/ckpt/epoch00-AUROC0.42-acc0.60.ckpt
+best acc is 0.54
+logs/save/14404/ckpt/epoch01-AUROC0.25-acc0.60.ckpt
+best acc is 0.54
+logs/save/14405/ckpt/epoch02-AUROC0.50-acc0.60.ckpt
+logs/save/14405/ckpt/epoch01-AUROC0.50-acc0.60.ckpt
+best acc is 0.6
+logs/save/14405/ckpt/epoch00-AUROC0.50-acc0.40.ckpt
+best acc is 0.54
+logs/save/14406/ckpt/epoch01-AUROC0.60-acc0.50.ckpt
+best acc is 0.54
+logs/save/14406/ckpt/epoch04-AUROC0.52-acc0.50.ckpt
+logs/save/14406/ckpt/epoch03-AUROC0.52-acc0.50.ckpt
+logs/save/14407/ckpt/epoch04-AUROC0.75-acc0.40.ckpt
+logs/save/14407/ckpt/epoch03-AUROC0.75-acc0.40.ckpt
+logs/save/14407/ckpt/epoch05-AUROC0.75-acc0.40.ckpt
+logs/save/14408/ckpt/epoch03-AUROC0.50-acc0.60.ckpt
+logs/save/14408/ckpt/epoch02-AUROC0.50-acc0.60.ckpt
+logs/save/14408/ckpt/epoch01-AUROC0.75-acc0.40.ckpt
+best acc is 0.54
+logs/save/14409/ckpt/epoch01-AUROC0.33-acc0.60.ckpt
+best acc is 0.62
+logs/save/14409/ckpt/epoch02-AUROC0.50-acc0.40.ckpt
+best acc is 0.54
+logs/save/14409/ckpt/epoch00-AUROC0.58-acc0.40.ckpt
+best acc is 0.54
+logs/save/14410/ckpt/epoch02-AUROC0.44-acc0.50.ckpt
+logs/save/14410/ckpt/epoch01-AUROC0.48-acc0.50.ckpt
+best acc is 0.68
+logs/save/14410/ckpt/epoch03-AUROC0.44-acc0.50.ckpt
+logs/save/14411/ckpt/epoch00-AUROC0.60-acc0.30.ckpt
+best acc is 0.64
+logs/save/14411/ckpt/epoch02-AUROC0.48-acc0.70.ckpt
+logs/save/14411/ckpt/epoch01-AUROC0.60-acc0.70.ckpt
+best acc is 0.64
+logs/save/14412/ckpt/epoch01-AUROC0.76-acc0.50.ckpt
+best acc is 0.54
+logs/save/14412/ckpt/epoch02-AUROC0.50-acc0.50.ckpt
+best acc is 0.54
+logs/save/14412/ckpt/epoch00-AUROC0.66-acc0.50.ckpt
+best acc is 0.54
+logs/save/14413/ckpt/epoch02-AUROC0.50-acc0.30.ckpt
+best acc is 0.54
+logs/save/14413/ckpt/epoch00-AUROC0.50-acc0.30.ckpt
+best acc is 0.54
+logs/save/14413/ckpt/epoch03-AUROC0.48-acc0.70.ckpt
+logs/save/14414/ckpt/epoch03-AUROC0.56-acc0.50.ckpt
+logs/save/14414/ckpt/epoch02-AUROC0.56-acc0.50.ckpt
+logs/save/14414/ckpt/epoch04-AUROC0.56-acc0.50.ckpt
+logs/save/14415/ckpt/epoch03-AUROC0.58-acc0.40.ckpt
+logs/save/14415/ckpt/epoch04-AUROC0.58-acc0.40.ckpt
+logs/save/14415/ckpt/epoch02-AUROC0.58-acc0.40.ckpt
+logs/save/14416/ckpt/epoch03-AUROC0.33-acc0.60.ckpt
+logs/save/14416/ckpt/epoch01-AUROC0.58-acc0.40.ckpt
+best acc is 0.56
+logs/save/14416/ckpt/epoch02-AUROC0.50-acc0.40.ckpt
+logs/save/14417/ckpt/epoch04-AUROC0.44-acc0.50.ckpt
+logs/save/14417/ckpt/epoch03-AUROC0.44-acc0.50.ckpt
+logs/save/14417/ckpt/epoch02-AUROC0.50-acc0.50.ckpt
+best acc is 0.54
+logs/save/14418/ckpt/epoch01-AUROC0.42-acc0.60.ckpt
+best acc is 0.54
+logs/save/14418/ckpt/epoch00-AUROC0.50-acc0.60.ckpt
+best acc is 0.54
+logs/save/14418/ckpt/epoch02-AUROC0.29-acc0.40.ckpt
+logs/save/14419/ckpt/epoch00-AUROC0.65-acc0.40.ckpt
+best acc is 0.62
+logs/save/14419/ckpt/epoch01-AUROC0.50-acc0.60.ckpt
+best acc is 0.54
+logs/save/14419/ckpt/epoch02-AUROC0.58-acc0.40.ckpt
+best acc is 0.54
+logs/save/14420/ckpt/epoch05-AUROC0.81-acc0.70.ckpt
+logs/save/14420/ckpt/epoch03-AUROC0.81-acc0.70.ckpt
+logs/save/14420/ckpt/epoch04-AUROC0.81-acc0.70.ckpt
+logs/save/14421/ckpt/epoch04-AUROC0.58-acc0.60.ckpt
+logs/save/14421/ckpt/epoch02-AUROC0.58-acc0.60.ckpt
+logs/save/14421/ckpt/epoch03-AUROC0.58-acc0.60.ckpt
+logs/save/14422/ckpt/epoch03-AUROC0.75-acc0.60.ckpt
+logs/save/14422/ckpt/epoch05-AUROC0.75-acc0.60.ckpt
+logs/save/14422/ckpt/epoch04-AUROC0.75-acc0.60.ckpt
+logs/save/14423/ckpt/epoch01-AUROC0.68-acc0.50.ckpt
+best acc is 0.54
+logs/save/14423/ckpt/epoch00-AUROC0.82-acc0.50.ckpt
+best acc is 0.54
+logs/save/14423/ckpt/epoch02-AUROC0.48-acc0.50.ckpt
+logs/save/14424/ckpt/epoch02-AUROC0.33-acc0.60.ckpt
+logs/save/14424/ckpt/epoch00-AUROC0.50-acc0.40.ckpt
+best acc is 0.54
+logs/save/14424/ckpt/epoch01-AUROC0.71-acc0.60.ckpt
+best acc is 0.62
+logs/save/14425/ckpt/epoch00-AUROC0.50-acc0.60.ckpt
+best acc is 0.54
+logs/save/14425/ckpt/epoch02-AUROC0.50-acc0.40.ckpt
+best acc is 0.54
+logs/save/14425/ckpt/epoch03-AUROC0.46-acc0.40.ckpt
+logs/save/14426/ckpt/epoch02-AUROC0.50-acc0.80.ckpt
+best acc is 0.54
+logs/save/14426/ckpt/epoch01-AUROC0.25-acc0.80.ckpt
+best acc is 0.6
+logs/save/14426/ckpt/epoch00-AUROC0.62-acc0.20.ckpt
+best acc is 0.54
+logs/save/14427/ckpt/epoch04-AUROC0.52-acc0.50.ckpt
+logs/save/14427/ckpt/epoch03-AUROC0.52-acc0.50.ckpt
+logs/save/14427/ckpt/epoch05-AUROC0.52-acc0.50.ckpt
+logs/save/14428/ckpt/epoch04-AUROC0.44-acc0.50.ckpt
+logs/save/14428/ckpt/epoch03-AUROC0.44-acc0.50.ckpt
+logs/save/14428/ckpt/epoch00-AUROC0.52-acc0.50.ckpt
+best acc is 0.62
+logs/save/14429/ckpt/epoch01-AUROC0.38-acc0.70.ckpt
+best acc is 0.62
+logs/save/14429/ckpt/epoch02-AUROC0.50-acc0.30.ckpt
+best acc is 0.54
+logs/save/14429/ckpt/epoch00-AUROC0.57-acc0.30.ckpt
+best acc is 0.54
+logs/save/14430/ckpt/epoch03-AUROC0.83-acc0.60.ckpt
+logs/save/14430/ckpt/epoch04-AUROC0.83-acc0.60.ckpt
+logs/save/14430/ckpt/epoch05-AUROC0.83-acc0.60.ckpt
+logs/save/14431/ckpt/epoch01-AUROC0.64-acc0.50.ckpt
+best acc is 0.62
+logs/save/14431/ckpt/epoch00-AUROC0.50-acc0.50.ckpt
+best acc is 0.54
+logs/save/14431/ckpt/epoch02-AUROC0.50-acc0.50.ckpt
+best acc is 0.54
+logs/save/14432/ckpt/epoch03-AUROC0.62-acc0.80.ckpt
+logs/save/14432/ckpt/epoch04-AUROC0.62-acc0.80.ckpt
+logs/save/14432/ckpt/epoch02-AUROC0.62-acc0.20.ckpt
+best acc is 0.6
+logs/save/14433/ckpt/epoch02-AUROC0.21-acc0.60.ckpt
+logs/save/14433/ckpt/epoch01-AUROC0.92-acc0.60.ckpt
+best acc is 0.6
+logs/save/14433/ckpt/epoch00-AUROC0.35-acc0.40.ckpt
+best acc is 0.6
+logs/save/14434/ckpt/epoch03-AUROC0.62-acc0.30.ckpt
+logs/save/14434/ckpt/epoch04-AUROC0.62-acc0.30.ckpt
+logs/save/14434/ckpt/epoch02-AUROC0.64-acc0.70.ckpt
+best acc is 0.54
+logs/save/14435/ckpt/epoch01-AUROC0.86-acc0.70.ckpt
+best acc is 0.62
+logs/save/14435/ckpt/epoch00-AUROC0.40-acc0.30.ckpt
+best acc is 0.54
+logs/save/14435/ckpt/epoch02-AUROC0.50-acc0.70.ckpt
+best acc is 0.54
+logs/save/14436/ckpt/epoch00-AUROC0.29-acc0.60.ckpt
+best acc is 0.54
+logs/save/14436/ckpt/epoch02-AUROC0.54-acc0.40.ckpt
+best acc is 0.54
+logs/save/14436/ckpt/epoch01-AUROC0.46-acc0.40.ckpt
+best acc is 0.54
+logs/save/14437/ckpt/epoch00-AUROC0.42-acc0.50.ckpt
+best acc is 0.54
+logs/save/14437/ckpt/epoch02-AUROC0.32-acc0.50.ckpt
+logs/save/14437/ckpt/epoch01-AUROC0.36-acc0.50.ckpt
+best acc is 0.64
+logs/save/14438/ckpt/epoch02-AUROC0.50-acc0.40.ckpt
+best acc is 0.54
+logs/save/14438/ckpt/epoch01-AUROC0.48-acc0.60.ckpt
+best acc is 0.54
+logs/save/14438/ckpt/epoch00-AUROC0.58-acc0.60.ckpt
+best acc is 0.54

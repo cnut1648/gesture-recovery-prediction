@@ -1,0 +1,16 @@
+_target_: src.module.model.CombinedModel.CombinedModel
+
+arch: CombinedModel
+
+gesture_dim: 128
+clinical_dim: 32
+hidden_dim: 128
+n_hidden_layers: 1
+
+mlp_args:
+  norm: none
+  dropout: 0.2
+  activation: gelu
+
+gesture_ckpt: ${work_dir}/selected_ckpt/9325/epoch11-AUROC0.71-acc0.70.ckpt
+clinical_ckpt: ${work_dir}/selected_ckpt/ft_transformer/k0

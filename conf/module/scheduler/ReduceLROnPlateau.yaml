@@ -1,0 +1,12 @@
+_target_: torch.optim.lr_scheduler.ReduceLROnPlateau
+mode: min
+# lr <- lr * factor
+factor: 0.1
+# 10 epoch of patient
+patience: 10
+threshold: 1E-4
+threshold_mode: rel
+cooldown: 0
+min_lr: 0
+eps: 1E-8
+verbose: False

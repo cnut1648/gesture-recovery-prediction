@@ -1,0 +1,86 @@
+# @package _global_
+
+# use 
+# mpy main.py +hsearch=CNN3D model=CNN3D data.task_name=AB
+
+defaults:
+  - override /hydra/sweeper: optuna
+
+# choose metric which will be optimized by Optuna
+tune_metric: "valid/epoch/AUPRC"
+
+# provide a model
+module:
+  model: ???
+
+hydra:
+  # here we define Optuna hyperparameter search
+  # it optimizes for value returned from function with @hydra.main decorator
+  # learn more here: https://hydra.cc/docs/next/plugins/optuna_sweeper
+  sweeper:
+    _target_: hydra_plugins.hydra_optuna_sweeper.optuna_sweeper.OptunaSweeper
+    storage: null
+    study_name: null
+    n_jobs: 1
+
+    # 'minimize' or 'maximize' the objective
+    direction: maximize
+
+    # number of experiments that will be executed
+    n_trials: 150
+
+    # choose Optuna hyperparameter sampler
+    # learn more here: https://optuna.readthedocs.io/en/stable/reference/samplers.html
+    sampler:
+      _target_: optuna.samplers.TPESampler
+      seed: 8889
+      consider_prior: true
+      prior_weight: 1.0
+      consider_magic_clip: true
+      consider_endpoints: false
+      n_startup_trials: 10
+      n_ei_candidates: 24
+      multivariate: false
+      warn_independent_sampling: true
+
+    # define range of hyperparameters
+    search_space:
+      # module/optim: 
+      #   type: categorical
+      #   choices: [Adam, SGD]
+      module.optim.lr:
+        type: float
+        # low: 1E-6
+        # high: 0.008
+        low: 1e-6
+        high: 1e-2
+        log: true
+      module.optim.weight_decay:
+        type: float
+        low: 1E-6
+        high: 1E-1
+        log: true
+      data.batch_size:
+        type: categorical
+        choices: [8, 4]
+      module.model.hidden_dim:
+        type: int
+        low: 32
+        high: 256
+        log: False
+      module.model.n_hidden_layers:
+        type: int
+        low: 1
+        high: 5
+        log: False
+      module.model.mlp_args.dropout:
+        type: float
+        low: 0.008
+        high: 0.9
+        log: true
+      module.model.mlp_args.activation:
+        type: categorical
+        choices: ['gelu', 'relu', 'tanh', 'leaky_relu', 'silu', 'hard_siwsh', 'prelu', 'rrelu', 'relu6', 'celu', 'softplus']
+      module.model.mlp_args.norm:
+        type: categorical
+        choices: ['none', 'layer_norm', 'batch_norm']

@@ -1,0 +1,5 @@
+_target_: pytorch_lightning.Trainer
+
+# all gpus
+gpus: 4
+accelerator: ddp

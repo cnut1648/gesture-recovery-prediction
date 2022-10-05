@@ -1,0 +1,22 @@
+_target_: src.data.SeqDataModule.SeqDataModule
+
+# defaults: 
+#   - aug@transforms
+
+# vanila k_fold (80-10-10) split
+# data_dir: ${data_dir}/
+# new k_fold: 30 train sample + 10 test
+data_dir: ${data_dir}/train30_test10
+has_test: False
+
+use_k_fold: False
+k_fold: null
+valid_test: "20:20"
+
+
+# # or stratified
+# sampler: balanced
+# # only used in baseline
+num_workers: 8
+batch_size: 8
+num_distinct_gestures: 19
